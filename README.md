@@ -9,6 +9,13 @@ The project uses the JavaScript p5.js library at its core and is displayed on a 
 
 
 
+## View Animation
+### Project Hosted using GitHub Pages.
+
+[Click this link to view the animation
+](https://sm-wybme.github.io/Maurer-Rose/MaurerRose/)
+
+
 ## About Maurer Rose
 
 A Maurer rose of the rose r = sin(nθ) consists of the 360 lines successively connecting the above 361 points. Thus a Maurer rose is a polygonal curve with vertices on a rose.
@@ -29,10 +36,11 @@ The following images shows the evolution of a Maurer rose (n = 6, d = 71°).
 - [@sm-wyBme](https://github.com/sm-wyBme)
 
   
-## Run Locally
+## Connect With Me
 
-Click this link to view the animation
+Email: [sm-wyBme](mailto:smondal2001s@gmail.com)
+## License
 
-```bash
- https://sm-wybme.github.io/Maurer-Rose/MaurerRose/
-```
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
