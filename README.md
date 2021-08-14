@@ -5,14 +5,14 @@ A simple project which animates the Maurer Rose pattern.
 
 The project uses the JavaScript p5.js library at its core and is displayed on a webpage using HTML and CSS.
 
-
-
-
-
-## Project Hosted using GitHub Pages.
-
-[Click this link to view the animation
+[View Maurer Rose
 ](https://sm-wybme.github.io/Maurer-Rose/MaurerRose/)
+
+
+
+
+
+
 
 
 ## About Maurer Rose
