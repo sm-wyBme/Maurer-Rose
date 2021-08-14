@@ -9,8 +9,7 @@ The project uses the JavaScript p5.js library at its core and is displayed on a 
 
 
 
-## View Animation
-### Project Hosted using GitHub Pages.
+## Project Hosted using GitHub Pages.
 
 [Click this link to view the animation
 ](https://sm-wybme.github.io/Maurer-Rose/MaurerRose/)
